@@ -82,3 +82,7 @@ Key names are `GEMINI_API_KEY_1` and `GEMINI_API_KEY_2`.
 ### 5. Run
 
 ![image](https://github.com/user-attachments/assets/6c07802b-2219-436e-b7d9-c33407e528d0)
+
+## Thanks
+
+Many thanks to [sgnoob](https://github.com/sgnoob/subtitles) for the great work on the Colab file and the original idea.
